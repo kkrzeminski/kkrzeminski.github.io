@@ -1,0 +1,11 @@
+C:\Program Files (x86)\VMware\VMware Workstation
+http://www.techtalkshub.com/functional-thinking/
+https://github.com/phusion/open-vagrant-boxes#building-a-box-and-importing-it-into-vagrant
+http://www.percona.com/doc/percona-xtrabackup/2.1/howtos/recipes_ibkx_stream.html
+http://www.grokit.ca/cnt/SpeedOfComputing/
+http://codecondo.com/9-free-books-for-learning-data-mining-data-analysis/
+http://www.jorgecastro.org/2013/05/01/13-reasons-to-deploy-with-ubuntu-server-part-3/
+
+
+
+http://askubuntu.com/questions/116351/increase-partition-size-on-which-ubuntu-is-installed

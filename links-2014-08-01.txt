@@ -1,0 +1,35 @@
+Seven Signs You're Too Smart For Your Job
+https://www.linkedin.com/today/post/article/20140729162449-52594-seven-signs-you-re-too-smart-for-your-job
+
+Clojure web apps: Zero to 'Hello World' on Heroku in Clojure in 15 minutes.
+http://adambard.com/blog/Getting-started-with-Clojure-web-apps/
+
+Opinion: The unspoken truth about managing geeks
+http://www.computerworld.com/s/article/print/9137708/Opinion_The_unspoken_truth_about_managing_geeks?taxonomyName=Management&taxonomyId=14
+
+http://stackoverflow.com/questions/79165/migrate-svn-repository-with-history-to-a-new-git-repository
+
+How to Optimize Your Environment for Creativity with The Perfect Temperature, Lighting and Noise Levels
+http://blog.bufferapp.com/how-to-optimize-your-environment-for-creativity-with-the-perfect-temperature-lighting-and-noise-levels
+
+The Dust Brothers - Fight Club complete soundtrack (45 tracks, full album)
+https://www.youtube.com/watch?v=ttXuhDuZ4CA
+
+Monitor Or Fail
+http://thecodist.com/article/monitor_or_fail
+
+7 Simple Productivity Tips You Can Apply Today, Backed by Science
+http://blog.bufferapp.com/simple-productivity-tips-science?utm_content=buffer3f737&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer#comment-1481920728
+
+
+Why age in software is bullshit
+http://scripting.com/2014/07/15/whyAgeInSoftwareIsBullshit.html
+
+Programming Is Not Math
+http://www.sarahmei.com/blog/2014/07/15/programming-is-not-math/
+
+BUILDING SINGLE PAGE APPS WITH REAGENT
+http://yogthos.net/blog/54
+
+Unit testing Anti-patterns catalogue
+http://stackoverflow.com/questions/333682/unit-testing-anti-patterns-catalogue?utm_content=buffer1941e&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
