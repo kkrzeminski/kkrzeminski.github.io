@@ -1,2 +1,5 @@
 http://www.brendangregg.com/linuxperf.html
+
 https://import.io/features Web Data Extraction Made Easy
+
+http://thecomputersarewinning.com/post/Transducers-Are-Fundamental/
